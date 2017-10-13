@@ -1,1 +1,1 @@
-echo discord.py==0.12.0
+echo discord.py=0.12.0
